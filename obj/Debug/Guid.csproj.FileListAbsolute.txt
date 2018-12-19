@@ -1,0 +1,7 @@
+D:\Source\Sandbox\Guid\bin\Debug\guid.exe.config
+D:\Source\Sandbox\Guid\bin\Debug\guid.exe
+D:\Source\Sandbox\Guid\bin\Debug\guid.pdb
+D:\Source\Sandbox\Guid\obj\Debug\Guid.csproj.CoreCompileInputs.cache
+D:\Source\Sandbox\Guid\obj\Debug\guid.exe
+D:\Source\Sandbox\Guid\obj\Debug\guid.pdb
+D:\Source\Sandbox\Guid\obj\Debug\Guid.csprojAssemblyReference.cache
